@@ -1,4 +1,3 @@
---> FINAL MARK!
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl2mijeuk000609l9mjany0lo/project/2425265" alt="hel-mefe's 42 get_next_line Score" /></a>
 
 # What is Get_Next_Line All About ?
